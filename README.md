@@ -3,7 +3,7 @@
 
 
 ## 🎯 Objetivo
-O objetivo deste quiz é testar seus conhecimentos nos mais variados temas através de perguntas no terminal. O usuário recebe uma pergunta e deve escolher a resposta correta entre as opções apresentadas.
+O objetivo deste quiz é testar seus conhecimentos nos mais variados temas através de perguntas no terminal. A cada rodada o usuário escolhe um tema e recebe um total de 10 perguntas, e deve escolher a resposta correta entre as opções apresentadas.
 
 ### 🛠️ Tecnologias Utilizadas
 
